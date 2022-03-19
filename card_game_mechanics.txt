@@ -1,0 +1,35 @@
+My main concept is each player has a group of fighters.
+
+Each fighter has has different capabilities to lead other units, fight, cast spells, or be tricky.
+
+Each player has a deck with units, spells, items, and strategies. Hand size starts and is limited to the number of fighters on the field.
+Fighter Stats to go on the card: 
+
+Command - leads units
+Focus - spells
+Cleverness - tricks
+Attack
+Defense
+
+Command -
+[  ] every unit must be under a hero
+[  ] every unit costs command,total mist not exceed heros level
+[  ] If level exceeded you must role for steadfastness every unit till either all pass or enough have fled to be manageable again, command side dictates order of dice role (a commander decides wich underlings to neglect) 
+[  ] If a hero falls other heros can take command of units, else units flee or reacted as indicated on card 
+
+Focus
+A hero has a maximum capacity to focus,
+[  ] Using spells consumes focus, RESTING (tapping without action) can recharge 1 focus per turn.
+[  ] Some units require a certain amount of focus (in addition to command) or they may turn on you. 
+
+Cleverness
+Finds exploits, sets traps, diffuses traps, outflanks, and uses an enemy's might against him.
+[  ] Cleverness is a perceptive and intuitive level, so it is usable any time.
+[  ] A clever plan/trap of 3 can only be undertaken by a person with at least lvl 3 cleverness 
+[  ] A clever ability must roll at or below its number to succeed. So if I have a cleverness of lvl3 and I roll a 5, my plan failed because it was more difficult then I thought. (identical process for defusing traps or counter cleverness) 
+
+Attack is how much potential damage you can dish out per turn 
+
+Defense
+X is the number of damage you can take without injury. Anything above X will reduce X by the overage. So if I have 5 Defense and you have 5 offense we are stalemate that turn. But if I have 5 and you attack with 6, one damage has gone through, I susteain the damage and next turn i will have only 4 Defense to work with.
+1 Defense can be recovered per turn if you tap the champion for RECOVERY (you can't rest and recover at the same time, you must choose)
